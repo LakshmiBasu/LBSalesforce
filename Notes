@@ -1,1 +1,10 @@
+1. Created a new git hub repo
+2. Installed VS Code, Amazon Corretto jdk for mac v 17, salesforce CLI and git extension from vs code
+3. Created a new folder, cmd+shift+pto create new sfdx project
+4. cmd+shift+p to git clone the repo, get it stored locally in same sfdx project folder
+5. Created git branches main > stage > dev git branches with feature branches originating from dev
+6. run '$git config --list --show-origin' to see location of the config file
+7. Set global name  : git config --global user.name "Jane Doe"
+8. Set global email $ git config --global user.email JaneDoe@example.com
+
 
